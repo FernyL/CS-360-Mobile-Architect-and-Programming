@@ -1,6 +1,7 @@
 # CS-360-Mobile-Architect-and-Programming
 
 What user needs was this app designed to address?
+
 The user needs the Inventory app was designed to address were logging into or registering for an account. An inventory screen would also be needed to add items to a list and then either edit or delete the item if necessary. A database was needed to check for or save the username and password to a table. Another table in the database was created for the inventory items so that users may add, edit, or delete an item. An SMS notification function was also created to ask for permission to use SMS messaging and send out an SMS message if an inventory item count was zero.  
 
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
